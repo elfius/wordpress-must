@@ -1,0 +1,2 @@
+# wordpress-must
+Plugins cruciales
